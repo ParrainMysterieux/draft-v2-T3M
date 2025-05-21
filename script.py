@@ -1,6 +1,7 @@
 import time
 import random
-
+# Bravo, tu viens d’utiliser les bases de l’OSINT. C’est mon terrain de jeu préféré.
+#Ta passphrase: "Je t'offre une entrecote chez woody et une adhésion au keewee club"
 class ProcessSimulator:
     def __init__(self, name):
         self.name = name
